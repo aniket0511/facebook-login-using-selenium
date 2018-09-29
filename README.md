@@ -15,6 +15,6 @@ Second important part is webdriver :
     
 webdriver should be install in your pc 
   
-For Chrome webdriver is 'geckodriver'
+For Chrome webdriver is chromedriver
 
-For FireFox simple FireFoxdriver
+For FireFox 'geckodriver'
